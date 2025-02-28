@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #000, #222);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    max-width: 400px;
+    margin: auto;
+}
+.card {
+    background: #333;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+button {
+    background: yellow;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background: #111;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.nav-item {
+    color: gray;
+    cursor: pointer;
+}
+.nav-item.active {
+    color: yellow;
+}
