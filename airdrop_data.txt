@@ -1,0 +1,13 @@
+ID | Title | Type | Description | Launch Date | Status | Funds | Code | Link
+---|---|---|---|---|---|---|---|---
+1 | TEKO | Social | TEKO is an optimized lending platform that maximizes yields | February 24, 2025 | - | $0 | - | https://teko.finance/waitlist?ref_id=2TXNJSNXH
+2 | Gradient Network | DePIN | Similar to Grass, Nodepay and Dawn | September 11, 2024 | - | $0 | - | https://app.gradient.network/signup?code=SCCMOG
+3 | Sparkchain | DePIN | Share unused internet bandwidth with the Spark network | December 25, 2024 | Potential | $0 | - | https://sparkchain.ai/register/?r=46670663
+4 | LayerEdge | DePIN | Enhances Bitcoin Blockspace with ZK & BitVM | January 22, 2025 | Confirmed | $0 | 9VfoH6D0 | https://dashboard.layeredge.io/
+5 | 3DOS | DePIN | Decentralized manufacturing network for everyone | February 11, 2025 | Confirmed | $0 | - | https://dashboard.3dos.io/register?ref_code=caf5d1
+6 | NAORIS | DePIN | Self-validating cybersecurity enforcement protocol | January 30, 2025 | Confirmed | $11.5M | oaWdlGjNa3N08eit | https://naorisprotocol.network/testnet/tasks
+7 | DePINed | DePIN | GPU rental and AI development platform | January 11, 2025 | Confirmed | $750K | DEzaRpu4POHWl0 | https://app.depined.org/onboarding
+8 | MyGate Network | DePIN | Transform devices into Virtual Private Servers (VPS) | January 1, 2025 | Confirmed | $750K | - | https://app.mygate.network/login?code=5HLopj
+9 | Fireverse | Social | Complete Missions | - | Confirmed | $2.5M | - | https://web3.fireverseai.com/login/?invite=ZCVLUA
+10 | Open Ledger | DePIN | Foundational step in OpenLedger ecosystem | December 16, 2024 | Confirmed | $8M | - | https://testnet.openledger.xyz/?referral_code=bjwpa2njgm
+11 | MinionLab | DePIN | Decentralized network of autonomous AI agents | January 24, 2025 | Confirmed | $2M | - | https://ref.minionlab.io/?referralCode=pJycWBNf
