@@ -994,6 +994,10 @@
         
         // Inicializar la aplicación
         document.addEventListener('DOMContentLoaded', function() {
+            if (typeof airdrops === 'undefined') {
+                console.error('Airdrops data not loaded. Check if airdrops.js is properly included.');
+                return;
+            }
             // Renderizar airdrops iniciales
             renderAirdrops();
             
@@ -1427,7 +1431,7 @@ function getTypeClass(type) {
     }
 }
     </script>    
-    </script src="airdrops.js"></script>
+    <script src="airdrops.js"></script>
 </body>
 </html>
 
