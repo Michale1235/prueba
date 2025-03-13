@@ -1,4 +1,29 @@
         const airdrops = [
+                                        {
+                id: 11,
+                title: "prueba",
+                type: "depin",
+                description: " Learn about MinionLab and its decentralized network of autonomous AI agents.",
+                launchDate: "January 24, 2025",
+                publishDate: new Date(2025, 3, 12),
+                status: "Confirmed", 
+                image: "Imagen/minion_lab.png ",
+                referenceImage: "Imagen/fondosminionlab.jpeg",
+                webUrl: "https://ref.minionlab.io/?referralCode=pJycWBNf",
+                docsUrl: "https://docs.minionlab.ai/introduction",
+                xUrl: "https://x.com/MinionLabAI ",
+                badges: ["Web","Docs","X"],
+                info: "MinionLab is a decentralized network of autonomous AI agents—called “Minions”—that run on user devices to mine real-time data from the internet.",
+                funds:"$ 2.00 M",
+                link: "https://ref.minionlab.io/?referralCode=pJycWBNf",
+                participationSteps: [
+                    { step: "Create or log in to your Google account", icon: "fa-google" },
+                    { step: "Complete registration", icon: "fa-user-plus" },
+                    {step: "download the extension", icon: "fa-download" },
+                    { step: "Follow social media accounts", icon: "fa-share-alt" }
+                ]
+ 
+            },
                         {
                 id: 11,
                 title: "MinionLab",
