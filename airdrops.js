@@ -2,7 +2,7 @@
 const airdrops = [
     {
         id: 1,
-        title: "MinionLab",
+        title: "prueba",
         type: "depin",
         description: "Learn about MinionLab and its decentralized network of autonomous AI agents.",
         launchDate: "January 24, 2025",
